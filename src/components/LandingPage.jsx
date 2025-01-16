@@ -13,7 +13,7 @@ function Logo() {
       {/* main content  */}
       <div className="flex justify-between h-full max-sm:hidden  ">
         <div className="bg-hero-left bg-no-repeat w-2/4 mt-12 -ml-14  bg-left-top max-lg:-ml-52 max-xl:-ml-40 max-lg:w-[55%] max-md:w-[64%] max-md:-ml-60"></div>
-        <div className="max-w-[730px] px-[96px] text-center mx-auto bg-hero-squiggle bg-no-repeat bg-top max-xl:bg-contain max-xl:px-0 max-xl:max-w-[500px] max-lg:max-w-[370px] max-lg:h-[300px] max-lg:mt-[95px] max-md:max-w-[302px]">
+        <div className="max-w-[730px] px-[96px] text-center mx-auto bg-hero-squiggle bg-no-repeat bg-top max-xl:bg-contain max-xl:px-0 max-xl:max-w-[500px] max-lg:max-w-[370px] max-lg:h-[300px] max-lg:mt-[95px] max-md:max-w-[302px]" style={{ backgroundImage: `url(${squiggle})` }}>
           <h2 className="text-white font-extrabold text-[48px] px-2 leading-[50px] pt-[95px] max-xl:text-[40px] max-lg:text-[32px] max-lg:pt-1 max-md:text-[28px] ">
             Get paid for the work you <span className="text-cyan">love</span> to
             do

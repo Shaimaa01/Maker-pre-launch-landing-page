@@ -1,6 +1,5 @@
 /** @type {import('tailwindcss').Config} */
 
-
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
@@ -17,11 +16,9 @@ export default {
         manrope: ["Manrope", "sans-serif"],
       },
       backgroundImage: {
-        "hero-squiggle": "url('/assets/bg-hero-squiggle.svg')",
-        "footer-squiggle":"url('/assets/bg-footer-squiggle.svg')",
+        "footer-squiggle": "url('/assets/bg-footer-squiggle.svg')",
         "hero-left": "url('/assets/illustration-hero-left.svg')",
         "hero-right": "url('/assets/illustration-hero-right.svg')",
-        
       },
     },
   },
