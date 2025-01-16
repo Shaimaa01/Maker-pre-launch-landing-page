@@ -13,7 +13,7 @@ function Features() {
             <img
               src={passions}
               alt="passions"
-              className="max-lg:w-[66px] max-lg:h-[80px]"
+              className="max-lg:w-[66px] max-lg:h-[80px] "
             />
           </div>
           <div className="max-lg:pl-10 max-sm:pl-0">
