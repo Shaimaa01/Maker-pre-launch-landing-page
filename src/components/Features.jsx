@@ -5,7 +5,7 @@ import lifestyle from "../assets/imgs/illustration-lifestyle.svg";
 
 function Features() {
   return (
-    <div className="bg-midnight py-[200px] font-manrope max-lg:py-[100px] max-sm:pb-[144px] max-sm:pt-0">
+    <div className="bg-midnight py-[100px] font-manrope max-lg:py-[100px] max-sm:pb-[144px] max-sm:pt-0">
       <div className="flex gap-4 justify-center h-[383px] max-lg:flex-col max-lg:h-fit max-lg:items-center max-lg:max-w-[625px] max-lg:mx-auto max-lg:gap-10 max-sm:gap-16">
         {/* passions */}
         <div className="max-lg:flex max-lg:justify-center max-lg:items-center max-lg:self-end max-sm:flex-col max-sm:text-center max-sm:self-center">
