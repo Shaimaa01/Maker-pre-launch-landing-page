@@ -14,7 +14,7 @@ function Pricing() {
       <div className="flex py-[100px] text-left justify-center items-center gap-6 max-lg:flex-col max-lg:gap-16 max-lg:pt-[80px] ">
         {/* box 1 */}
         <div className="max-w-[445px] bg-navy rounded-lg py-[45px] px-[38px]  relative text-white font-thin ">
-          <img src={free} className=" absolute -top-6" />
+          <img src={free} className=" absolute -top-6" alt="free icon" />
           <h3 className="font-bold text-[18px] ">Dip your toe</h3>
           <p className=" font-medium text-[15px] text-slate pt-5 ">
             Just getting started? No problem at all! Our free plan will take you
@@ -43,7 +43,7 @@ function Pricing() {
 
         {/* box 2 */}
         <div className="max-w-[445px] bg-cyan rounded-lg py-[56px] px-[38px] text-midnight relative">
-          <img src={paid} className="absolute -top-8" />
+          <img src={paid} className="absolute -top-8" alt="paid icon"/>
           <h3 className="font-extrabold text-[18px]">Dive right in</h3>
           <p className=" font-medium text-[15px]  pt-5 opacity-55">
             Ready for the big time? Our paid plan will help you take your
