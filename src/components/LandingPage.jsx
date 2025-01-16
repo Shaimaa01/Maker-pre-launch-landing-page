@@ -6,7 +6,7 @@ function Logo() {
   return (
     <div className="bg-midnight h-screen font-manrope  overflow-hidden max-sm:overflow-visible ">
       {/* Logo */}
-      <div className="pt-[63px] pl-[165px] pb-[114px] max-lg:pt-[48px] max-lg:pl-[39px] max-sm:pt-[40px] max-sm:pl-0 w-fit max-sm:mx-auto max-sm:pb-[65px]">
+      <div className="pt-[62px] pl-[165px] pb-[114px] max-lg:pt-[48px] max-lg:pl-[39px] max-sm:pt-[40px] max-sm:pl-0 w-fit max-sm:mx-auto max-sm:pb-[65px]">
         <img src={logo} alt="Logo" />
       </div>
 
