@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/assets/imgs/Screenshot.png)
+![](./src/assets/imgs/Screenshot_2025-01-16%20maker(3).png)
 
 ### Links
 
