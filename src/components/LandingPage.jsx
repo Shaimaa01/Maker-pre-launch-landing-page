@@ -1,5 +1,6 @@
 import logo from "../assets/imgs/logo.svg";
 import scroll from "../assets/icons/icon-scroll.svg";
+import squiggle from "../assets/imgs/bg-hero-squiggle.svg"
 
 function Logo() {
   return (

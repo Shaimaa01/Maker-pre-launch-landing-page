@@ -17,10 +17,10 @@ export default {
         manrope: ["Manrope", "sans-serif"],
       },
       backgroundImage: {
-        "hero-squiggle": "url('public/assets/bg-hero-squiggle.svg')",
-        "footer-squiggle":"url('public/assets/bg-footer-squiggle.svg')",
-        "hero-left": "url('public/assets/illustration-hero-left.svg')",
-        "hero-right": "url('public/assets/illustration-hero-right.svg')",
+        "hero-squiggle": "url('/assets/bg-hero-squiggle.svg')",
+        "footer-squiggle":"url('/assets/bg-footer-squiggle.svg')",
+        "hero-left": "url('/assets/illustration-hero-left.svg')",
+        "hero-right": "url('/assets/illustration-hero-right.svg')",
         
       },
     },
